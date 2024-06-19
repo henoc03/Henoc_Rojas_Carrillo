@@ -1,0 +1,7 @@
+# Visual Studio Code
+.vscode/
+
+# Executable Files
+*.exe
+main
+main.dSYM/

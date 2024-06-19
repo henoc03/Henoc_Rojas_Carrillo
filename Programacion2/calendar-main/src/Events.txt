@@ -1,0 +1,11 @@
+*
+Meeting
+*
+Cubicle
+*
+DailyEvent
+*
+Appointment
+*
+Activity
+*

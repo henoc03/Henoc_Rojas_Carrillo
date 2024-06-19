@@ -1,0 +1,8 @@
+
+Julian/12345/Manager
+Francisco/4567/Individual Contributor
+Marco/00220/Individual Contributor
+*
+luis/842675/Manager
+navas/navas/Individual Contributor
+*
